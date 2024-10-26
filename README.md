@@ -1,5 +1,7 @@
 ![BRF](https://github.com/ZHO-ZHO-ZHO/ComfyUI-BiRefNet-ZHO/assets/140084057/ad43b70b-370b-49ca-94df-46039a224ce5)
 
+解决了新版本comfyui导入失败的问题！！！
+
 
 # ComfyUI-BiRefNet-ZHO
 
